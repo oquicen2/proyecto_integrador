@@ -13,4 +13,3 @@ def home(request):
 def About(request):
     return HttpResponse('<h1> Welcome to About page</h1>')
 
-
