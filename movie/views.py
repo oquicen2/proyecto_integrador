@@ -19,5 +19,5 @@ def home(request):
 
 
 def About(request):
-    return HttpResponse('<h1> Ana te ammo gracias por todo ya casi termino</h1>')
+    return HttpResponse('<h1> Welcome to About page</h1</h1>')
 
